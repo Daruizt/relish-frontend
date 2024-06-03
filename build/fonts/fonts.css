@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'GuardianTextEgyp-Bold';
+  src: local('GuardianTextEgyp-Bold'),
+    url(./GuardianTextEgyp-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianTextSans-Bold';
+  src: local('GuardianTextSans-Bold'),
+    url(./GuardianTextSans-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianTextEgyp-Medium';
+  src: local('GuardianTextEgyp-Medium'),
+    url(./GuardianTextEgyp-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianTextSans-Medium';
+  src: local('GuardianTextSans-Medium'),
+    url(./GuardianTextSans-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianTextEgyp-Regular';
+  src: local('GuardianTextEgyp-Regular'),
+    url(./GuardianTextEgyp-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianTextSans-Regular';
+  src: local('GuardianTextSans-Regular'),
+    url(./GuardianTextSans-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GuardianEgyp-Light';
+  src: local('GuardianEgyp-Light'),
+    url(./GuardianEgyp-Light.ttf) format('truetype');
+}
